@@ -2,6 +2,7 @@ package com.example.gitdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.web.bind.annotation.GetMapping;
 
 @SpringBootApplication
 public class GitdemoApplication {
@@ -10,5 +11,17 @@ public class GitdemoApplication {
         SpringApplication.run(GitdemoApplication.class, args);
     }
 
-    //testing courtney 123
+
+
+    // Dean Commit
+    // Dean Commit - squash
+    // Dean Commit - squash2
+
+
+
+
+
+
+
+
 }
