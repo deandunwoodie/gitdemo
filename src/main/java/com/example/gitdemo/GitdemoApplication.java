@@ -15,6 +15,7 @@ public class GitdemoApplication {
 
     // Dean Commit
     // Dean Commit - squash
+    // Dean Commit - squash2
 
 
 
