@@ -10,31 +10,7 @@ public class GitdemoApplication {
         SpringApplication.run(GitdemoApplication.class, args);
     }
 
-
-
-    // Dean Commit
-    // Dean Commit - squash
-    // Dean Commit - squash2
-
-
-
-
-
-
-
-
-
-
-    // Dean Commit
-    // Dean Commit - squash
-    // Dean Commit - squash2
-
-
-
-
-
-
-
+    //Dean2-branch
 
     //Dermot 1
 }
